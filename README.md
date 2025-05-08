@@ -1,7 +1,9 @@
+https://github.com/Mart357/KiviCBHomepage - Lõputöö repository
+
 https://ta23pors.itmajakas.ee/index.html - Veebileht
+
 https://ta23pors.itmajakas.ee/Hinnakalkulaator.html - Arendamisel hinnakalkulaator
 
-https://github.com/Mart357/KiviCBHomepage - Lõputöö repository
 
 ![screencapture-kivicb-ee-2025-04-22-23_04_45](https://github.com/user-attachments/assets/9d53a30e-87d4-40f9-83b6-6fdc0fe066b7)
 
